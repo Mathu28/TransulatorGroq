@@ -1,2 +1,2 @@
 
-groqapi_key = "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"
+groqapi_key = "gsk____________________________________T"
